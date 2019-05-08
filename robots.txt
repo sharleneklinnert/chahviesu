@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ehohgeezeo.brixen.io/sitemap.xml
